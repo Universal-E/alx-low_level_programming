@@ -3,12 +3,12 @@
 
 /**
  * main - Displays the string without using printf or put
- * s
+ * 
  * Return: Always 1 (Success)
  */
 int main(void)
 {
 	write(2,
-	"and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", sizeof("and that piece of art is useful\" - Dora Korpar, 2015-10-19"));
+	"and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
 	return (1);
 }
