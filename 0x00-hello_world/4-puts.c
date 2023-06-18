@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * Discription: main - Prints out string using puts stout
- * Returns: 0 if success
+ * Discription: main - Prints out string to stdout.
+ * Returns: 0 if success.
  */
 int main(void)
 {
