@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <unistd.h>
-
 /**
  * main - Displays the string without using printf or put
  * 
