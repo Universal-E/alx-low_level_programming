@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Prints last digit of a random number and identifies if it is negative, positive, or zero
+ * main - Prints last digit of a random number,
+ * and identifies if it is negative, positive, or zero
  * Return: 0 (success)
  */
 
