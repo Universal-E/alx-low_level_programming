@@ -6,6 +6,8 @@
  * Return: void
  */
 
+void print_alphabet_x10(void)
+
 {
 	int alphabet = 0;
 	int multiple;
